@@ -1,3 +1,5 @@
+package experiment_2;
+import java.util.*;
 
 public class RotateArrayRight {
     public static void rotateRight(int[] arr, int k) {
@@ -22,8 +24,6 @@ public class RotateArrayRight {
         int[] arr = {1, 2, 3, 4, 5};
         int k = 2;
         rotateRight(arr, k);
-        for(int i = 0 ; i< arr.length ; i++){
-        System.out.print(arr[i]+ "\t");
-        }
+        System.out.println(Arrays.toString(arr));
     }
 }

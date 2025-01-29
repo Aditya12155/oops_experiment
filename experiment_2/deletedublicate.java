@@ -1,3 +1,4 @@
+package experiment_2;
 public class deletedublicate {
     public static int[] removeDuplicates(int[] arr) {
         
