@@ -1,4 +1,3 @@
-package experiment_2;
 import java.util.*;
 
 public class RotateArrayRight {
