@@ -1,4 +1,3 @@
-
 abstract class Person {
     abstract void performDuty();
 }
